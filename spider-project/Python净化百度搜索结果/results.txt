@@ -1,0 +1,28 @@
+Page0:
+Download Python | Python.org:https://www.python.org/downloads/
+Pythonï¼Pythonï¼_ç¾åº¦ç¾ç§:https://baike.baidu.com/item/Python?force=1&fr=aladdin
+Python 的练手项目有哪些值得推荐？ - 知乎:https://www.zhihu.com/question/29372574
+Python教程 - 廖雪峰的官方网站:https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+Pythonï¼è®¡ç®æºç¨åºè®¾è®¡è¯­è¨ï¼_ç¾åº¦ç¾ç§:https://baike.baidu.com/item/Python/407313?fr=aladdin
+ç¾åº¦ç¿»è¯:http://fanyi.baidu.com/transpage?query=https%3A%2F%2Fwww.python.org%2Fdownloads%2F&source=url&ie=utf8&from=auto&to=zh&render=1&origin=ps
+你是如何自学 Python 的？ - 知乎:https://www.zhihu.com/question/20702054
+PythonTab：Python中文开发者社区门户:http://www.pythontab.com/
+ç¾åº¦ç¿»è¯:http://fanyi.baidu.com/transpage?query=https%3A%2F%2Fwww.python.org%2F&source=url&ie=utf8&from=auto&to=zh&render=1&origin=ps
+你都用 Python 来做什么？ - 知乎:https://www.zhihu.com/question/20799742
+Welcome to Python.org:https://www.python.org/
+Python åºç¡æç¨ | èé¸æç¨:http://www.runoob.com/python/python-tutorial.html
+Python ç®ä» | èé¸æç¨:http://www.runoob.com/python/python-intro.html
+Page1:
+ç¾åº¦ç¿»è¯:http://fanyi.baidu.com/transpage?query=https%3A%2F%2Fwww.python.org%2Fdownload%2Freleases%2F3.4.0%2F&source=url&ie=utf8&from=auto&to=zh&render=1&origin=ps
+IBM developerWorks 中国 : Python 技术专题:https://www.ibm.com/developerworks/cn/linux/theme/python/
+ç¾åº¦ç¿»è¯:http://fanyi.baidu.com/transpage?query=https%3A%2F%2Fwww.python.org%2Fgetit%2F&source=url&ie=utf8&from=auto&to=zh&render=1&origin=ps
+Python 2.7教程 - 廖雪峰的官方网站:https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000
+Download Python | Python.org:https://www.python.org/getit/
+Python åè¡¨(List) | èé¸æç¨:http://www.runoob.com/python/python-lists.html
+3.6.4 Documentation:https://docs.python.org/3/
+ç©èç½ - Pythonæç¨å­¦ä¹ ä¸Pythonèµæºåäº«å¹³å°:http://www.iplaypy.com/
+ç¾åº¦ç¿»è¯:http://fanyi.baidu.com/transpage?query=https%3A%2F%2Fdocs.python.org%2F&source=url&ie=utf8&from=auto&to=zh&render=1&origin=ps
+Python - 伯乐在线:http://python.jobbole.com/
+Python 3.4.0 | Python.org:https://www.python.org/download/releases/3.4.0/
+Python3 æç¨ | èé¸æç¨:http://www.runoob.com/python3/python3-tutorial.html
+python | 我爱自然语言处理:http://www.52nlp.cn/tag/python
