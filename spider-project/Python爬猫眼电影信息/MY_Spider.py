@@ -1,6 +1,4 @@
 # 猫眼电影爬虫
-# 公众号：Charles的皮卡丘
-# 作者：Charles
 import requests
 import openpyxl
 import cookies
