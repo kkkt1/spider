@@ -60,9 +60,6 @@ class bilibili():
 
 
 if __name__ == '__main__':
-	print('[Wecome]: Bilibili视频下载器 V1.0')
-	print('[Author]: Charles')
-	print('[公众号]: Charles的皮卡丘')
 	url = input('请输入视频链接:\n(例如 https://www.bilibili.com/video/av26431038/?spm_id_from=333.334.chief_recommend.16)\n')
 	bilibili().get(url)
 
