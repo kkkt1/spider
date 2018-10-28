@@ -1,6 +1,4 @@
 # 酷狗音乐下载器
-# 作者：Charles
-# 公众号：Charles的皮卡丘
 import requests
 import re
 import os
