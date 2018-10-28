@@ -1,6 +1,4 @@
 # 音悦台MV下载脚本
-# 作者：Charles
-# 公众号：Charles的皮卡丘
 import re
 import requests
 import click
@@ -49,6 +47,5 @@ def Spider(url):
 if __name__ == '__main__':
 	print('[INFO]:yinyuetai mv downloader...')
 	print('[URL]:http://www.yinyuetai.com')
-	print('[Author]:Charles')
 	url = input('Enter the mv url you want to download:')
 	Spider(url)
